@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 # SPDX-FileCopyrightText: 2024 Fumihiro Sakurada <setsu23hiro@icloud.co>
+# SPDX-License-Identifier: BSD-3-Clause
+
 import sys
 
 def tonum(s):
